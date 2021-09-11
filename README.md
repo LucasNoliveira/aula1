@@ -2,7 +2,7 @@
 aula da turma de front A
 
 Comandos Utilizados:
-mkdir public_html
+`mkdir public_html
 touch Contato.html
 touch Home.html
 touch index.html
@@ -11,4 +11,4 @@ cd Main_CSS
 touch css
 git add *
 git commi -m "CSS"
-git push
+git push`
